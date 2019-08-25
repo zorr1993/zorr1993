@@ -1,8 +1,8 @@
 RootObj= {
 "username": "zorr1993",
 "goals": [
-{"goal": "listen", "confidence": "8/10"}
-{"goal": "learn", "confidence": "9/10"}
+{"goal": "listen", "confidence": "8/10"},
+{"goal": "learn", "confidence": "9/10"},
 {"goal": "participate", "confidence": "7/10"}
 ]
 }
