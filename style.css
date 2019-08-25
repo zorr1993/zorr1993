@@ -4,4 +4,8 @@ body {
 h1 {
  font-style: italic
   font-weight: bold
+  color: white;
+}
+ul {
+ color: white;
 }
